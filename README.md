@@ -28,8 +28,14 @@ Our distilled YOLO11n model achieves:
 - **Real-time Processing**: Processes microscopic video streams at target FPS
 - **Efficient Resource Usage**: Optimized for embedded deployment
 
-### Demo Video
-![Bacteria Detection Results](/home/yuguerten/workspace/distillation_yolo/demo/image_detection.png)
+### Methodology
+![methodology](methodology/pipeline_overview.png)
+
+### Model size vs. mAP50:95
+![res](methodology/mAP_vs_model_size.png)
+
+### Demo frame in 30s video that came from mini-microscope
+![Bacteria Detection Results](demo/image_detection.png)
 
 *Real-time bacteria detection results showing automated identification and tracking of Pseudomonas aeruginosa in microscopic images.*
 
@@ -155,33 +161,6 @@ Our system achieves:
 ## 🎓 Academic Context
 
 This project is part of a **Final Year Project (PFE)** focused on applying deep learning techniques to medical image analysis. The research contributes to the field of automated microscopy and embedded AI systems.
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Ultralytics**: For the YOLO framework
-- **Research Team**: For guidance and support
-- **Open Source Community**: For tools and libraries used
-
-## 📬 Contact
-
-For questions or collaborations, please contact:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
