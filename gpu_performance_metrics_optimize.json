@@ -1,0 +1,2101 @@
+{
+  "summary": {
+    "total_time": 87.3522424697876,
+    "total_frames": 232,
+    "avg_fps": 2.655913499647608,
+    "target_fps": 1,
+    "total_detections": 148388,
+    "avg_inference_time": 0.19050914594597068,
+    "max_detection_usage_percent": 100.0
+  },
+  "frame_metrics": [
+    {
+      "frame_id": 1,
+      "detections": 595,
+      "tracks": 0,
+      "avg_inference_time": 0.23465943336486816,
+      "current_fps": 4.261494991531476,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 2,
+      "detections": 615,
+      "tracks": 0,
+      "avg_inference_time": 0.2141956090927124,
+      "current_fps": 4.668629783009044,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 3,
+      "detections": 633,
+      "tracks": 525,
+      "avg_inference_time": 0.20756872495015463,
+      "current_fps": 4.817681470270336,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 4,
+      "detections": 627,
+      "tracks": 582,
+      "avg_inference_time": 0.20452582836151123,
+      "current_fps": 4.889358023928607,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 5,
+      "detections": 634,
+      "tracks": 609,
+      "avg_inference_time": 0.20087819099426268,
+      "current_fps": 4.978141206123074,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 6,
+      "detections": 633,
+      "tracks": 636,
+      "avg_inference_time": 0.19968883196512857,
+      "current_fps": 5.007791322925004,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 7,
+      "detections": 631,
+      "tracks": 653,
+      "avg_inference_time": 0.1980116367340088,
+      "current_fps": 5.050208242777726,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 8,
+      "detections": 627,
+      "tracks": 666,
+      "avg_inference_time": 0.19658726453781128,
+      "current_fps": 5.086799505303975,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 9,
+      "detections": 624,
+      "tracks": 677,
+      "avg_inference_time": 0.1956693066491021,
+      "current_fps": 5.110663584009735,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 10,
+      "detections": 654,
+      "tracks": 693,
+      "avg_inference_time": 0.19522416591644287,
+      "current_fps": 5.122316672762767,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 11,
+      "detections": 629,
+      "tracks": 704,
+      "avg_inference_time": 0.19314570860429245,
+      "current_fps": 5.177438355872309,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 12,
+      "detections": 639,
+      "tracks": 717,
+      "avg_inference_time": 0.19117345412572226,
+      "current_fps": 5.230851765341675,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 13,
+      "detections": 617,
+      "tracks": 730,
+      "avg_inference_time": 0.1906904440659743,
+      "current_fps": 5.244101270507421,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 14,
+      "detections": 622,
+      "tracks": 730,
+      "avg_inference_time": 0.1900068691798619,
+      "current_fps": 5.262967619625334,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 15,
+      "detections": 648,
+      "tracks": 735,
+      "avg_inference_time": 0.18897999127705892,
+      "current_fps": 5.291565489247613,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 16,
+      "detections": 625,
+      "tracks": 738,
+      "avg_inference_time": 0.18875740468502045,
+      "current_fps": 5.2978054114947195,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 17,
+      "detections": 635,
+      "tracks": 739,
+      "avg_inference_time": 0.18774008750915527,
+      "current_fps": 5.326512910841347,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 18,
+      "detections": 631,
+      "tracks": 747,
+      "avg_inference_time": 0.18718467818366158,
+      "current_fps": 5.342317596202086,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 19,
+      "detections": 634,
+      "tracks": 750,
+      "avg_inference_time": 0.18659995731554532,
+      "current_fps": 5.359058031878187,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 20,
+      "detections": 639,
+      "tracks": 757,
+      "avg_inference_time": 0.18599990606307984,
+      "current_fps": 5.376346801276668,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 21,
+      "detections": 609,
+      "tracks": 743,
+      "avg_inference_time": 0.18584638550167992,
+      "current_fps": 5.3807879948838755,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 22,
+      "detections": 617,
+      "tracks": 745,
+      "avg_inference_time": 0.18733859062194824,
+      "current_fps": 5.337928489160107,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 23,
+      "detections": 628,
+      "tracks": 743,
+      "avg_inference_time": 0.18734928835993228,
+      "current_fps": 5.337623690776006,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 24,
+      "detections": 620,
+      "tracks": 742,
+      "avg_inference_time": 0.1873615582784017,
+      "current_fps": 5.337274140910452,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 25,
+      "detections": 618,
+      "tracks": 740,
+      "avg_inference_time": 0.18746481895446776,
+      "current_fps": 5.334334226428289,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 26,
+      "detections": 608,
+      "tracks": 733,
+      "avg_inference_time": 0.18760513342343843,
+      "current_fps": 5.330344547358026,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 27,
+      "detections": 614,
+      "tracks": 733,
+      "avg_inference_time": 0.1877111240669533,
+      "current_fps": 5.327334780880206,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 28,
+      "detections": 639,
+      "tracks": 731,
+      "avg_inference_time": 0.18808920894350326,
+      "current_fps": 5.316626113837143,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 29,
+      "detections": 622,
+      "tracks": 729,
+      "avg_inference_time": 0.1881697177886963,
+      "current_fps": 5.314351383164332,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 30,
+      "detections": 633,
+      "tracks": 731,
+      "avg_inference_time": 0.18841475645701092,
+      "current_fps": 5.307439920334276,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 31,
+      "detections": 628,
+      "tracks": 727,
+      "avg_inference_time": 0.18851860877006285,
+      "current_fps": 5.30451612455779,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 32,
+      "detections": 621,
+      "tracks": 734,
+      "avg_inference_time": 0.1885269731283188,
+      "current_fps": 5.30428077959625,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 33,
+      "detections": 631,
+      "tracks": 739,
+      "avg_inference_time": 0.18873505158857865,
+      "current_fps": 5.298432864393883,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 34,
+      "detections": 621,
+      "tracks": 738,
+      "avg_inference_time": 0.1885070239796358,
+      "current_fps": 5.304842116164482,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 35,
+      "detections": 624,
+      "tracks": 745,
+      "avg_inference_time": 0.1880455425807408,
+      "current_fps": 5.317860696275912,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 36,
+      "detections": 645,
+      "tracks": 740,
+      "avg_inference_time": 0.1876121229595608,
+      "current_fps": 5.330145964051304,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 37,
+      "detections": 627,
+      "tracks": 740,
+      "avg_inference_time": 0.18727548057968552,
+      "current_fps": 5.339727319906682,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 38,
+      "detections": 643,
+      "tracks": 741,
+      "avg_inference_time": 0.18696432364614388,
+      "current_fps": 5.348614005593066,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 39,
+      "detections": 641,
+      "tracks": 740,
+      "avg_inference_time": 0.1866436799367269,
+      "current_fps": 5.357802634083323,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 40,
+      "detections": 632,
+      "tracks": 734,
+      "avg_inference_time": 0.18651960492134095,
+      "current_fps": 5.361366706849503,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 41,
+      "detections": 627,
+      "tracks": 738,
+      "avg_inference_time": 0.1862211460020484,
+      "current_fps": 5.369959435159958,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 42,
+      "detections": 635,
+      "tracks": 736,
+      "avg_inference_time": 0.18602652776808964,
+      "current_fps": 5.375577408221327,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 43,
+      "detections": 635,
+      "tracks": 737,
+      "avg_inference_time": 0.18587441222612247,
+      "current_fps": 5.379976662863452,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 44,
+      "detections": 626,
+      "tracks": 736,
+      "avg_inference_time": 0.18562971461902966,
+      "current_fps": 5.387068563092463,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 45,
+      "detections": 653,
+      "tracks": 743,
+      "avg_inference_time": 0.1858802530500624,
+      "current_fps": 5.379807610497894,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 46,
+      "detections": 617,
+      "tracks": 749,
+      "avg_inference_time": 0.18608513085738473,
+      "current_fps": 5.3738844978774685,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 47,
+      "detections": 631,
+      "tracks": 750,
+      "avg_inference_time": 0.1861001785765303,
+      "current_fps": 5.3734499754322815,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 48,
+      "detections": 646,
+      "tracks": 753,
+      "avg_inference_time": 0.1862078160047531,
+      "current_fps": 5.370343852668753,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 49,
+      "detections": 636,
+      "tracks": 758,
+      "avg_inference_time": 0.18630870507687938,
+      "current_fps": 5.367435727640074,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 50,
+      "detections": 636,
+      "tracks": 752,
+      "avg_inference_time": 0.18640679836273194,
+      "current_fps": 5.364611209372762,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 51,
+      "detections": 630,
+      "tracks": 756,
+      "avg_inference_time": 0.18658147606195188,
+      "current_fps": 5.359588856870032,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 52,
+      "detections": 638,
+      "tracks": 756,
+      "avg_inference_time": 0.18687747075007513,
+      "current_fps": 5.351099819503513,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 53,
+      "detections": 644,
+      "tracks": 755,
+      "avg_inference_time": 0.18696653618002837,
+      "current_fps": 5.348550710898923,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 54,
+      "detections": 640,
+      "tracks": 761,
+      "avg_inference_time": 0.18701719354700158,
+      "current_fps": 5.347101948402823,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 55,
+      "detections": 644,
+      "tracks": 757,
+      "avg_inference_time": 0.1870769890871915,
+      "current_fps": 5.345392850715205,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 56,
+      "detections": 623,
+      "tracks": 759,
+      "avg_inference_time": 0.18703232066971914,
+      "current_fps": 5.346669476266097,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 57,
+      "detections": 639,
+      "tracks": 761,
+      "avg_inference_time": 0.18697309075740345,
+      "current_fps": 5.348363210711933,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 58,
+      "detections": 629,
+      "tracks": 770,
+      "avg_inference_time": 0.18683806781111092,
+      "current_fps": 5.352228331813929,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 59,
+      "detections": 639,
+      "tracks": 782,
+      "avg_inference_time": 0.18688504574662548,
+      "current_fps": 5.35088292380428,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 60,
+      "detections": 664,
+      "tracks": 788,
+      "avg_inference_time": 0.186920432249705,
+      "current_fps": 5.349869931095124,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 61,
+      "detections": 631,
+      "tracks": 791,
+      "avg_inference_time": 0.18667723311752568,
+      "current_fps": 5.356839627949884,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 62,
+      "detections": 638,
+      "tracks": 792,
+      "avg_inference_time": 0.18653758879630797,
+      "current_fps": 5.360849823635077,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 63,
+      "detections": 636,
+      "tracks": 798,
+      "avg_inference_time": 0.18630705182514493,
+      "current_fps": 5.367483357197513,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 64,
+      "detections": 642,
+      "tracks": 793,
+      "avg_inference_time": 0.18624743074178696,
+      "current_fps": 5.369201583169208,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 65,
+      "detections": 630,
+      "tracks": 787,
+      "avg_inference_time": 0.1861046314239502,
+      "current_fps": 5.373321407149612,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 66,
+      "detections": 628,
+      "tracks": 783,
+      "avg_inference_time": 0.18593647263266824,
+      "current_fps": 5.378180976766063,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 67,
+      "detections": 620,
+      "tracks": 776,
+      "avg_inference_time": 0.18686268222865773,
+      "current_fps": 5.351523311520985,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 68,
+      "detections": 640,
+      "tracks": 770,
+      "avg_inference_time": 0.1869013975648319,
+      "current_fps": 5.350414780355628,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 69,
+      "detections": 656,
+      "tracks": 773,
+      "avg_inference_time": 0.18702624155127484,
+      "current_fps": 5.346843264910723,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 70,
+      "detections": 635,
+      "tracks": 780,
+      "avg_inference_time": 0.18743955067225865,
+      "current_fps": 5.335053335400476,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 71,
+      "detections": 636,
+      "tracks": 770,
+      "avg_inference_time": 0.1876072346324652,
+      "current_fps": 5.330284847271829,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 72,
+      "detections": 626,
+      "tracks": 777,
+      "avg_inference_time": 0.18770820564693874,
+      "current_fps": 5.327417608375122,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 73,
+      "detections": 629,
+      "tracks": 774,
+      "avg_inference_time": 0.18777096434815288,
+      "current_fps": 5.325637025253085,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 74,
+      "detections": 647,
+      "tracks": 772,
+      "avg_inference_time": 0.18782098551054258,
+      "current_fps": 5.324218682389295,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 75,
+      "detections": 619,
+      "tracks": 763,
+      "avg_inference_time": 0.18787688573201497,
+      "current_fps": 5.3226345332676335,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 76,
+      "detections": 622,
+      "tracks": 768,
+      "avg_inference_time": 0.18789530114123695,
+      "current_fps": 5.322112867784389,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 77,
+      "detections": 637,
+      "tracks": 768,
+      "avg_inference_time": 0.18786585795414912,
+      "current_fps": 5.322946973388118,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 78,
+      "detections": 631,
+      "tracks": 770,
+      "avg_inference_time": 0.18795784620138314,
+      "current_fps": 5.32034187563829,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 79,
+      "detections": 662,
+      "tracks": 770,
+      "avg_inference_time": 0.18798791305928292,
+      "current_fps": 5.319490938146886,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 80,
+      "detections": 631,
+      "tracks": 769,
+      "avg_inference_time": 0.18798302114009857,
+      "current_fps": 5.319629368307298,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 81,
+      "detections": 634,
+      "tracks": 768,
+      "avg_inference_time": 0.18810919773431473,
+      "current_fps": 5.316061160456381,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 82,
+      "detections": 652,
+      "tracks": 771,
+      "avg_inference_time": 0.18813051537769596,
+      "current_fps": 5.315458781327275,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 83,
+      "detections": 628,
+      "tracks": 774,
+      "avg_inference_time": 0.18814186015761042,
+      "current_fps": 5.315138264085828,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 84,
+      "detections": 653,
+      "tracks": 769,
+      "avg_inference_time": 0.18822248209090459,
+      "current_fps": 5.312861614039478,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 85,
+      "detections": 627,
+      "tracks": 771,
+      "avg_inference_time": 0.1882225653704475,
+      "current_fps": 5.312859263350623,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 86,
+      "detections": 627,
+      "tracks": 776,
+      "avg_inference_time": 0.18822136867878048,
+      "current_fps": 5.312893041951071,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 87,
+      "detections": 626,
+      "tracks": 783,
+      "avg_inference_time": 0.18823414561392246,
+      "current_fps": 5.312532414023593,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 88,
+      "detections": 635,
+      "tracks": 776,
+      "avg_inference_time": 0.18825044144283642,
+      "current_fps": 5.31207253664612,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 89,
+      "detections": 664,
+      "tracks": 774,
+      "avg_inference_time": 0.18827965822112694,
+      "current_fps": 5.3112482221820265,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 90,
+      "detections": 637,
+      "tracks": 768,
+      "avg_inference_time": 0.18828971385955812,
+      "current_fps": 5.310964574229912,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 91,
+      "detections": 641,
+      "tracks": 770,
+      "avg_inference_time": 0.18829285967481005,
+      "current_fps": 5.3108758437629735,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 92,
+      "detections": 644,
+      "tracks": 773,
+      "avg_inference_time": 0.18832185994023862,
+      "current_fps": 5.3100580055726745,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 93,
+      "detections": 630,
+      "tracks": 757,
+      "avg_inference_time": 0.18838900135409448,
+      "current_fps": 5.3081655129133996,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 94,
+      "detections": 641,
+      "tracks": 756,
+      "avg_inference_time": 0.18836961654906578,
+      "current_fps": 5.308711767428394,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 95,
+      "detections": 660,
+      "tracks": 760,
+      "avg_inference_time": 0.18837253921910335,
+      "current_fps": 5.308629400790003,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 96,
+      "detections": 654,
+      "tracks": 765,
+      "avg_inference_time": 0.18837938209374747,
+      "current_fps": 5.3084365650076695,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 97,
+      "detections": 662,
+      "tracks": 767,
+      "avg_inference_time": 0.1883787273131695,
+      "current_fps": 5.308455016460292,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 98,
+      "detections": 645,
+      "tracks": 765,
+      "avg_inference_time": 0.1884440597222776,
+      "current_fps": 5.30661460740002,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 99,
+      "detections": 636,
+      "tracks": 759,
+      "avg_inference_time": 0.18847263943065296,
+      "current_fps": 5.30580992031972,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 100,
+      "detections": 642,
+      "tracks": 764,
+      "avg_inference_time": 0.18846610069274902,
+      "current_fps": 5.305994002763775,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 101,
+      "detections": 650,
+      "tracks": 765,
+      "avg_inference_time": 0.18804048776626586,
+      "current_fps": 5.318003648464255,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 102,
+      "detections": 665,
+      "tracks": 763,
+      "avg_inference_time": 0.188003351688385,
+      "current_fps": 5.319054107383665,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 103,
+      "detections": 627,
+      "tracks": 764,
+      "avg_inference_time": 0.18790573120117188,
+      "current_fps": 5.321817453930663,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 104,
+      "detections": 621,
+      "tracks": 770,
+      "avg_inference_time": 0.18787819385528565,
+      "current_fps": 5.322597473819959,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 105,
+      "detections": 642,
+      "tracks": 796,
+      "avg_inference_time": 0.18811411142349244,
+      "current_fps": 5.315922300739826,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 106,
+      "detections": 642,
+      "tracks": 805,
+      "avg_inference_time": 0.18807978868484498,
+      "current_fps": 5.316892405040104,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 107,
+      "detections": 634,
+      "tracks": 802,
+      "avg_inference_time": 0.18810389280319215,
+      "current_fps": 5.316211084723654,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 108,
+      "detections": 645,
+      "tracks": 804,
+      "avg_inference_time": 0.18815548181533814,
+      "current_fps": 5.314753470650578,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 109,
+      "detections": 630,
+      "tracks": 814,
+      "avg_inference_time": 0.18817527532577516,
+      "current_fps": 5.314194430000262,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 110,
+      "detections": 631,
+      "tracks": 819,
+      "avg_inference_time": 0.18821759939193725,
+      "current_fps": 5.312999439110036,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 111,
+      "detections": 632,
+      "tracks": 837,
+      "avg_inference_time": 0.1884095573425293,
+      "current_fps": 5.307586377807768,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 112,
+      "detections": 630,
+      "tracks": 838,
+      "avg_inference_time": 0.18855851411819458,
+      "current_fps": 5.303393509842614,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 113,
+      "detections": 674,
+      "tracks": 814,
+      "avg_inference_time": 0.1884379506111145,
+      "current_fps": 5.306786646516509,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 114,
+      "detections": 639,
+      "tracks": 816,
+      "avg_inference_time": 0.18980168104171752,
+      "current_fps": 5.268657234812397,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 115,
+      "detections": 646,
+      "tracks": 833,
+      "avg_inference_time": 0.1898956036567688,
+      "current_fps": 5.266051350022158,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 116,
+      "detections": 641,
+      "tracks": 852,
+      "avg_inference_time": 0.18977103233337403,
+      "current_fps": 5.269508142018656,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 117,
+      "detections": 646,
+      "tracks": 858,
+      "avg_inference_time": 0.1898102331161499,
+      "current_fps": 5.268419850620349,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 118,
+      "detections": 630,
+      "tracks": 853,
+      "avg_inference_time": 0.18972598314285277,
+      "current_fps": 5.270759352170849,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 119,
+      "detections": 642,
+      "tracks": 831,
+      "avg_inference_time": 0.189751296043396,
+      "current_fps": 5.2700562307163406,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 120,
+      "detections": 644,
+      "tracks": 838,
+      "avg_inference_time": 0.18982383728027344,
+      "current_fps": 5.268042277132496,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 121,
+      "detections": 636,
+      "tracks": 831,
+      "avg_inference_time": 0.18974868297576905,
+      "current_fps": 5.270128805730368,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 122,
+      "detections": 633,
+      "tracks": 820,
+      "avg_inference_time": 0.18949455976486207,
+      "current_fps": 5.277196354559567,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 123,
+      "detections": 658,
+      "tracks": 814,
+      "avg_inference_time": 0.18963372945785523,
+      "current_fps": 5.273323489755249,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 124,
+      "detections": 627,
+      "tracks": 797,
+      "avg_inference_time": 0.18966637372970582,
+      "current_fps": 5.272415876021879,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 125,
+      "detections": 628,
+      "tracks": 802,
+      "avg_inference_time": 0.1898559331893921,
+      "current_fps": 5.267151693397135,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 126,
+      "detections": 629,
+      "tracks": 815,
+      "avg_inference_time": 0.19015944957733155,
+      "current_fps": 5.258744712517339,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 127,
+      "detections": 634,
+      "tracks": 811,
+      "avg_inference_time": 0.19028284072875976,
+      "current_fps": 5.255334617510037,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 128,
+      "detections": 632,
+      "tracks": 805,
+      "avg_inference_time": 0.1904598593711853,
+      "current_fps": 5.2504501646780595,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 129,
+      "detections": 635,
+      "tracks": 812,
+      "avg_inference_time": 0.19045419216156007,
+      "current_fps": 5.250606398580671,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 130,
+      "detections": 626,
+      "tracks": 809,
+      "avg_inference_time": 0.19021913528442383,
+      "current_fps": 5.257094658246433,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 131,
+      "detections": 636,
+      "tracks": 812,
+      "avg_inference_time": 0.19003382921218873,
+      "current_fps": 5.262220964265347,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 132,
+      "detections": 639,
+      "tracks": 807,
+      "avg_inference_time": 0.19006528615951537,
+      "current_fps": 5.261350035064972,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 133,
+      "detections": 656,
+      "tracks": 808,
+      "avg_inference_time": 0.1899753665924072,
+      "current_fps": 5.263840349078012,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 134,
+      "detections": 639,
+      "tracks": 802,
+      "avg_inference_time": 0.18986980438232423,
+      "current_fps": 5.2667668945736485,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 135,
+      "detections": 660,
+      "tracks": 811,
+      "avg_inference_time": 0.18990198612213136,
+      "current_fps": 5.265874361929378,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 136,
+      "detections": 662,
+      "tracks": 827,
+      "avg_inference_time": 0.1899108362197876,
+      "current_fps": 5.265628965177532,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 137,
+      "detections": 674,
+      "tracks": 833,
+      "avg_inference_time": 0.18992627620697022,
+      "current_fps": 5.265200897796049,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 138,
+      "detections": 680,
+      "tracks": 827,
+      "avg_inference_time": 0.1899690818786621,
+      "current_fps": 5.26401449178306,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 139,
+      "detections": 647,
+      "tracks": 821,
+      "avg_inference_time": 0.19004498958587646,
+      "current_fps": 5.261911940846647,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 140,
+      "detections": 644,
+      "tracks": 816,
+      "avg_inference_time": 0.19035255670547485,
+      "current_fps": 5.253409869073948,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 141,
+      "detections": 654,
+      "tracks": 821,
+      "avg_inference_time": 0.19075508117675782,
+      "current_fps": 5.242324313622755,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 142,
+      "detections": 665,
+      "tracks": 819,
+      "avg_inference_time": 0.19108489274978638,
+      "current_fps": 5.233276087971208,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 143,
+      "detections": 671,
+      "tracks": 826,
+      "avg_inference_time": 0.1914282751083374,
+      "current_fps": 5.223888683289119,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 144,
+      "detections": 654,
+      "tracks": 807,
+      "avg_inference_time": 0.19163258790969848,
+      "current_fps": 5.218319133023566,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 145,
+      "detections": 647,
+      "tracks": 813,
+      "avg_inference_time": 0.1916903018951416,
+      "current_fps": 5.216748005055675,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 146,
+      "detections": 649,
+      "tracks": 834,
+      "avg_inference_time": 0.1916331458091736,
+      "current_fps": 5.218303940988321,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 147,
+      "detections": 639,
+      "tracks": 829,
+      "avg_inference_time": 0.19189225912094116,
+      "current_fps": 5.211257632699735,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 148,
+      "detections": 654,
+      "tracks": 819,
+      "avg_inference_time": 0.19213082075119017,
+      "current_fps": 5.20478700965423,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 149,
+      "detections": 636,
+      "tracks": 798,
+      "avg_inference_time": 0.19234649419784547,
+      "current_fps": 5.198951008545085,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 150,
+      "detections": 642,
+      "tracks": 812,
+      "avg_inference_time": 0.19258833408355713,
+      "current_fps": 5.192422504501939,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 151,
+      "detections": 645,
+      "tracks": 826,
+      "avg_inference_time": 0.19258735656738282,
+      "current_fps": 5.192448859695097,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 152,
+      "detections": 637,
+      "tracks": 830,
+      "avg_inference_time": 0.1924753189086914,
+      "current_fps": 5.195471324166976,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 153,
+      "detections": 658,
+      "tracks": 834,
+      "avg_inference_time": 0.1924135947227478,
+      "current_fps": 5.1971379747928825,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 154,
+      "detections": 637,
+      "tracks": 820,
+      "avg_inference_time": 0.19238929510116576,
+      "current_fps": 5.197794396378246,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 155,
+      "detections": 636,
+      "tracks": 827,
+      "avg_inference_time": 0.19237565755844116,
+      "current_fps": 5.198162868897347,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 156,
+      "detections": 646,
+      "tracks": 852,
+      "avg_inference_time": 0.1924006485939026,
+      "current_fps": 5.197487676409481,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 157,
+      "detections": 638,
+      "tracks": 848,
+      "avg_inference_time": 0.1926339340209961,
+      "current_fps": 5.191193364150499,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 158,
+      "detections": 653,
+      "tracks": 842,
+      "avg_inference_time": 0.19271327972412108,
+      "current_fps": 5.189055997757659,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 159,
+      "detections": 627,
+      "tracks": 824,
+      "avg_inference_time": 0.19271092653274535,
+      "current_fps": 5.1891193612733755,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 160,
+      "detections": 625,
+      "tracks": 825,
+      "avg_inference_time": 0.19273507833480835,
+      "current_fps": 5.188469108165443,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 161,
+      "detections": 634,
+      "tracks": 840,
+      "avg_inference_time": 0.19293731212615967,
+      "current_fps": 5.183030638190453,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 162,
+      "detections": 632,
+      "tracks": 833,
+      "avg_inference_time": 0.19306739807128906,
+      "current_fps": 5.179538389131632,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 163,
+      "detections": 650,
+      "tracks": 835,
+      "avg_inference_time": 0.1932246732711792,
+      "current_fps": 5.175322504474158,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 164,
+      "detections": 635,
+      "tracks": 813,
+      "avg_inference_time": 0.193270742893219,
+      "current_fps": 5.174088871549971,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 165,
+      "detections": 630,
+      "tracks": 823,
+      "avg_inference_time": 0.19339757442474365,
+      "current_fps": 5.170695666553604,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 166,
+      "detections": 623,
+      "tracks": 849,
+      "avg_inference_time": 0.1935197901725769,
+      "current_fps": 5.1674301584774405,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 167,
+      "detections": 631,
+      "tracks": 839,
+      "avg_inference_time": 0.19291978120803832,
+      "current_fps": 5.183501628180021,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 168,
+      "detections": 650,
+      "tracks": 832,
+      "avg_inference_time": 0.19298063039779664,
+      "current_fps": 5.181867205732879,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 169,
+      "detections": 642,
+      "tracks": 808,
+      "avg_inference_time": 0.19291223287582399,
+      "current_fps": 5.183704449907497,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 170,
+      "detections": 648,
+      "tracks": 819,
+      "avg_inference_time": 0.1926337170600891,
+      "current_fps": 5.191199210925601,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 171,
+      "detections": 644,
+      "tracks": 854,
+      "avg_inference_time": 0.19249141216278076,
+      "current_fps": 5.195036956528471,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 172,
+      "detections": 635,
+      "tracks": 850,
+      "avg_inference_time": 0.19238090753555298,
+      "current_fps": 5.1980210136767075,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 173,
+      "detections": 653,
+      "tracks": 848,
+      "avg_inference_time": 0.19235765933990479,
+      "current_fps": 5.198649242414383,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 174,
+      "detections": 639,
+      "tracks": 836,
+      "avg_inference_time": 0.19233833074569703,
+      "current_fps": 5.1991716686060085,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 175,
+      "detections": 637,
+      "tracks": 843,
+      "avg_inference_time": 0.1922979784011841,
+      "current_fps": 5.200262677300421,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 176,
+      "detections": 616,
+      "tracks": 866,
+      "avg_inference_time": 0.19225768327713014,
+      "current_fps": 5.201352595924858,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 177,
+      "detections": 628,
+      "tracks": 867,
+      "avg_inference_time": 0.19227373838424683,
+      "current_fps": 5.200918276221184,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 178,
+      "detections": 650,
+      "tracks": 850,
+      "avg_inference_time": 0.1922302293777466,
+      "current_fps": 5.202095441684805,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 179,
+      "detections": 631,
+      "tracks": 820,
+      "avg_inference_time": 0.19226908206939697,
+      "current_fps": 5.201044230497045,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 180,
+      "detections": 631,
+      "tracks": 820,
+      "avg_inference_time": 0.19227144718170167,
+      "current_fps": 5.200980252959625,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 181,
+      "detections": 631,
+      "tracks": 850,
+      "avg_inference_time": 0.1921781063079834,
+      "current_fps": 5.20350636818851,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 182,
+      "detections": 647,
+      "tracks": 850,
+      "avg_inference_time": 0.19213730335235596,
+      "current_fps": 5.204611403159563,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 183,
+      "detections": 639,
+      "tracks": 841,
+      "avg_inference_time": 0.1921128249168396,
+      "current_fps": 5.205274559014333,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 184,
+      "detections": 631,
+      "tracks": 824,
+      "avg_inference_time": 0.19208165645599365,
+      "current_fps": 5.206119201856749,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 185,
+      "detections": 632,
+      "tracks": 828,
+      "avg_inference_time": 0.1920556640625,
+      "current_fps": 5.20682378664226,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 186,
+      "detections": 635,
+      "tracks": 843,
+      "avg_inference_time": 0.1921232509613037,
+      "current_fps": 5.204992081887132,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 187,
+      "detections": 631,
+      "tracks": 833,
+      "avg_inference_time": 0.19210026979446412,
+      "current_fps": 5.205614760822255,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 188,
+      "detections": 663,
+      "tracks": 831,
+      "avg_inference_time": 0.1921064567565918,
+      "current_fps": 5.2054471092923675,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 189,
+      "detections": 639,
+      "tracks": 805,
+      "avg_inference_time": 0.19209981918334962,
+      "current_fps": 5.205626971702406,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 190,
+      "detections": 645,
+      "tracks": 818,
+      "avg_inference_time": 0.19212792873382567,
+      "current_fps": 5.204865355028115,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 191,
+      "detections": 647,
+      "tracks": 841,
+      "avg_inference_time": 0.1921076798439026,
+      "current_fps": 5.205413967898377,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 192,
+      "detections": 646,
+      "tracks": 843,
+      "avg_inference_time": 0.19209370136260986,
+      "current_fps": 5.205792761066789,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 193,
+      "detections": 650,
+      "tracks": 825,
+      "avg_inference_time": 0.1920356583595276,
+      "current_fps": 5.207366218037528,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 194,
+      "detections": 640,
+      "tracks": 812,
+      "avg_inference_time": 0.19206536054611206,
+      "current_fps": 5.206560918411494,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 195,
+      "detections": 646,
+      "tracks": 816,
+      "avg_inference_time": 0.19213500022888183,
+      "current_fps": 5.204673790869673,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 196,
+      "detections": 647,
+      "tracks": 856,
+      "avg_inference_time": 0.1922419810295105,
+      "current_fps": 5.201777440310984,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 197,
+      "detections": 640,
+      "tracks": 857,
+      "avg_inference_time": 0.19224637508392334,
+      "current_fps": 5.201658546557559,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 198,
+      "detections": 670,
+      "tracks": 858,
+      "avg_inference_time": 0.19223443269729615,
+      "current_fps": 5.201981694791692,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 199,
+      "detections": 639,
+      "tracks": 838,
+      "avg_inference_time": 0.19229474544525146,
+      "current_fps": 5.200350106730876,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 200,
+      "detections": 640,
+      "tracks": 854,
+      "avg_inference_time": 0.19231690645217894,
+      "current_fps": 5.199750861470193,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 201,
+      "detections": 644,
+      "tracks": 871,
+      "avg_inference_time": 0.19230173110961915,
+      "current_fps": 5.200161195792682,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 202,
+      "detections": 640,
+      "tracks": 863,
+      "avg_inference_time": 0.192331223487854,
+      "current_fps": 5.199363794735864,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 203,
+      "detections": 643,
+      "tracks": 850,
+      "avg_inference_time": 0.19239802598953248,
+      "current_fps": 5.197558524090083,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 204,
+      "detections": 647,
+      "tracks": 822,
+      "avg_inference_time": 0.19241855382919312,
+      "current_fps": 5.197004031574232,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 205,
+      "detections": 648,
+      "tracks": 827,
+      "avg_inference_time": 0.19223722219467163,
+      "current_fps": 5.2019062103765545,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 206,
+      "detections": 656,
+      "tracks": 823,
+      "avg_inference_time": 0.19226687669754028,
+      "current_fps": 5.201103888389077,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 207,
+      "detections": 665,
+      "tracks": 818,
+      "avg_inference_time": 0.19227112531661988,
+      "current_fps": 5.200988959487617,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 208,
+      "detections": 645,
+      "tracks": 799,
+      "avg_inference_time": 0.1923245096206665,
+      "current_fps": 5.1995452996207385,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 209,
+      "detections": 653,
+      "tracks": 779,
+      "avg_inference_time": 0.192331178188324,
+      "current_fps": 5.199365019335736,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 210,
+      "detections": 647,
+      "tracks": 801,
+      "avg_inference_time": 0.1923138666152954,
+      "current_fps": 5.199833052082509,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 211,
+      "detections": 636,
+      "tracks": 804,
+      "avg_inference_time": 0.1925624442100525,
+      "current_fps": 5.193120621740613,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 212,
+      "detections": 678,
+      "tracks": 804,
+      "avg_inference_time": 0.1926414966583252,
+      "current_fps": 5.190989570505831,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 213,
+      "detections": 630,
+      "tracks": 802,
+      "avg_inference_time": 0.19282984256744384,
+      "current_fps": 5.18591928866115,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 214,
+      "detections": 649,
+      "tracks": 805,
+      "avg_inference_time": 0.19158655643463135,
+      "current_fps": 5.219572910593007,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 215,
+      "detections": 638,
+      "tracks": 813,
+      "avg_inference_time": 0.1916704273223877,
+      "current_fps": 5.217288936900058,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 216,
+      "detections": 647,
+      "tracks": 817,
+      "avg_inference_time": 0.1918664073944092,
+      "current_fps": 5.211959787959938,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 217,
+      "detections": 667,
+      "tracks": 807,
+      "avg_inference_time": 0.19207494735717773,
+      "current_fps": 5.206301049456623,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 218,
+      "detections": 643,
+      "tracks": 796,
+      "avg_inference_time": 0.19231131315231323,
+      "current_fps": 5.199902094204859,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 219,
+      "detections": 652,
+      "tracks": 809,
+      "avg_inference_time": 0.19244105815887452,
+      "current_fps": 5.196396286568041,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 220,
+      "detections": 640,
+      "tracks": 837,
+      "avg_inference_time": 0.19254358768463134,
+      "current_fps": 5.193629203782719,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 221,
+      "detections": 652,
+      "tracks": 836,
+      "avg_inference_time": 0.19271064758300782,
+      "current_fps": 5.189126872552602,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 222,
+      "detections": 655,
+      "tracks": 834,
+      "avg_inference_time": 0.19283267974853516,
+      "current_fps": 5.185842987319666,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 223,
+      "detections": 638,
+      "tracks": 811,
+      "avg_inference_time": 0.19270529270172118,
+      "current_fps": 5.189271067649655,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 224,
+      "detections": 646,
+      "tracks": 808,
+      "avg_inference_time": 0.19269011974334715,
+      "current_fps": 5.189679685351517,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 225,
+      "detections": 646,
+      "tracks": 820,
+      "avg_inference_time": 0.19252095699310304,
+      "current_fps": 5.194239710930922,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 226,
+      "detections": 645,
+      "tracks": 818,
+      "avg_inference_time": 0.19219172954559327,
+      "current_fps": 5.203137525034718,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 227,
+      "detections": 667,
+      "tracks": 817,
+      "avg_inference_time": 0.19206947565078736,
+      "current_fps": 5.206449367405771,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 228,
+      "detections": 654,
+      "tracks": 795,
+      "avg_inference_time": 0.1918310785293579,
+      "current_fps": 5.212919656535005,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 229,
+      "detections": 665,
+      "tracks": 793,
+      "avg_inference_time": 0.19184364557266234,
+      "current_fps": 5.212578175393575,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 230,
+      "detections": 661,
+      "tracks": 814,
+      "avg_inference_time": 0.1920098328590393,
+      "current_fps": 5.208066613620422,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 231,
+      "detections": 656,
+      "tracks": 824,
+      "avg_inference_time": 0.1921800971031189,
+      "current_fps": 5.203452465025167,
+      "target_fps": 1,
+      "using_max_detection": true
+    },
+    {
+      "frame_id": 232,
+      "detections": 660,
+      "tracks": 812,
+      "avg_inference_time": 0.19218578815460205,
+      "current_fps": 5.203298379147366,
+      "target_fps": 1,
+      "using_max_detection": true
+    }
+  ]
+}
