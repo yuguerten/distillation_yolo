@@ -29,7 +29,7 @@ Our distilled YOLO11n model achieves:
 - **Efficient Resource Usage**: Optimized for embedded deployment
 
 ### Demo Video
-![Bacteria Detection Results](/home/yuguerten/workspace/distillation_yolo/demo/bacteria_detection_output.mp4)
+![Bacteria Detection Results](/home/yuguerten/workspace/distillation_yolo/demo/image_detection.png)
 
 *Real-time bacteria detection results showing automated identification and tracking of Pseudomonas aeruginosa in microscopic images.*
 
