@@ -32,7 +32,7 @@ Our distilled YOLO11n model achieves:
 ![methodology](methodology/pipeline_overview.png)
 
 ### Model size vs. mAP50:95
-![res](methodology/mAP_vs_model_size.png)
+![res](methodology/mAP_vs_modelsize.png)
 
 ### Demo frame in 30s video that came from mini-microscope
 ![Bacteria Detection Results](demo/image_detection.png)
